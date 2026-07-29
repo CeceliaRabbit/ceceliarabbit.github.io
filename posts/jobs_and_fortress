@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Jobs and Fortress</title>
+	<link href="../css/style.css" rel="stylesheet">
+    </head>
+    <body>
+	<h2>Title</h2>
+	<pre>
+	    2026-07-29 16:01
+	    
+	    I think the CSS is a little better on this post.
+	    I updated it to make it support dark mode.
+	    The html has an issue with using &lt;pre&gt;, though I like the style for editing.
+	    It keeps the tabs and whitespace from nvim.
+
+	    Anyway, some life updates. 
+	    Our friend went home after her flight got cancelled TWICE.
+	    Having her over made me realize how badly I wanted social interactions.
+	    This weekend, I have Pathfinder 2e at a public library.
+	    REALLY nervous, it's supposed to be this new player teaching game.
+	    I volunteered to DM because I have been DMing for years.
+	    Still really terrified of making myself look silly.
+
+	    C++ learning has been...okay?
+	    I got nvim configured to use the clangd LSP. 
+	    Additionally, I got compile.nvim working with a .clangd file and a CMakeLists.txt file.
+	    I did "Hello World" and played around with user input.
+	    Highly considering Hytale modding, though I think that's in Java.
+	    It would be cool to make a Civ-style server and have people join it on Hytale. 
+	    Would be good for motivation.
+
+	    On the jobs side of thing, I got in contact with an old college friend of mine to act as a professional reference.
+	    I applied to a few places through JobToday. 
+	    Tomorrow I'm gonna go door to door with my resume. 
+	    Spent today editing it and getting it printed.
+	    Progress is...slow. I kinda wasted Monday and Tuesday.
+	    I feel like I'm failing Jess.
+
+	    Uhhh...final notes I suppose. I joined a new Minecraft civ server. 
+	    A new one, called Fortress.
+	    It has some weird changes, like Namelayers being replaced by keys.
+	    Oh, and on CivMC we're nearly at Advanced Cauldron xp recipes for Zorweth.
+	    I think playing it last night with my girlfriend was really good for me.
+
+	    Love you all, and I'll be working on some little scripts to make getting updates easier to see.
+
+	    Moooooo~
+
+	    ~ CeceliaCowbbit
+	    <small>(Jess hates when I say moo)</small>
+	</pre>
+
+	<p class="back">
+	<a href="../index.html">← Back to blog</a>
+	</p>
+</body>
+</html>
+
