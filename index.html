@@ -11,6 +11,11 @@
         function copyToClipboard(event) {
             event.preventDefault();
             navigator.clipboard.writeText(event.target.getAttribute("href")).then(() => {});
+        }
+    </script>
+
+    <a href="https://cece.clocky.dog/feed.xml" onclick="copyToClipboard(event)">rss</a>         
+```
     </script>
     <body class="home">
         <main>
