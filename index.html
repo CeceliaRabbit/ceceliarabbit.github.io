@@ -5,8 +5,13 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>cece.clocky.dog</title>
         <link href="css/style.css" rel="stylesheet">
-	<link rel="alternate" type="application/rss+xml" title="barking it" href="https://cece.clocky.dog/feed.xml">
+    <link rel="alternate" type="application/rss+xml" title="barking it" href="https://cece.clocky.dog/feed.xml">
     </head>
+    <script> 
+        function copyToClipboard(event) {
+            event.preventDefault();
+            navigator.clipboard.writeText(event.target.getAttribute("href")).then(() => {});
+    </script>
     <body class="home">
         <main>
             <div class="welcome-box">
@@ -24,10 +29,11 @@
 
             </div>v
         </main>
-
+        
         <nav class="nav-buttons">
-            <a href="pages/blog.html">blog</a>
-            <a href="feed.xml">rss</a>
+            <a href="pages/1blog.html">blog</a>
+            <!-- <div class="link-container">https://cece.clocky.dog/feed.xml</div> -->
+            <a id="rss" href="https://cece.clocky.dog/feed.xml" onclick="copyToClipboard(event)">rss</a>         
         </nav>
     </body>
 </html>
