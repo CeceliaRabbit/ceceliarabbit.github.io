@@ -25,6 +25,10 @@ h1, h2 {
     color: #ffd9e2;
 }
 
+h3 {
+    text-align: center;
+}
+
 time {
     color: #b1b1b3;
     font-size: 0.9em;
